@@ -1,4 +1,4 @@
-# Metal-gabe Tap
+# Metal Gabe's Spinal Tap
 
 ## How do I install these formulae?
 
