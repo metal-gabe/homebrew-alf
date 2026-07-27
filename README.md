@@ -2,15 +2,15 @@
 
 ## How do I install these formulae?
 
-`brew install metal-gabe/tap/<formula>`
+`brew install metal-gabe/tap/alf`
 
-Or `brew tap metal-gabe/tap` and then `brew install <formula>`.
+Or `brew tap metal-gabe/alf` and then `brew install alf`.
 
 Or, in a `brew bundle` `Brewfile`:
 
 ```ruby
-tap "metal-gabe/tap"
-brew "<formula>"
+tap "metal-gabe/alf"
+brew "alf"
 ```
 
 ## Documentation
